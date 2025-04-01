@@ -1,0 +1,31 @@
+{
+  "build": "0_cp313",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main",
+  "constrains": [
+    "python 3.13.* *_cp313"
+  ],
+  "depends": [],
+  "extracted_package_dir": "C:\\Users\\Muhammed ehab\\miniconda3\\pkgs\\python_abi-3.13-0_cp313",
+  "files": [],
+  "fn": "python_abi-3.13-0_cp313.conda",
+  "license": "BSD-3-Clause",
+  "link": {
+    "source": "C:\\Users\\Muhammed ehab\\miniconda3\\pkgs\\python_abi-3.13-0_cp313",
+    "type": 1
+  },
+  "md5": "fd87d8ec3270d306609b9715f6d45609",
+  "name": "python_abi",
+  "package_tarball_full_path": "C:\\Users\\Muhammed ehab\\miniconda3\\pkgs\\python_abi-3.13-0_cp313.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "cf5f924772b776dee3c8d01021c4c5fcd31263140597b5fe0e63cb58716e2db0",
+  "size": 6860,
+  "subdir": "win-64",
+  "timestamp": 1727770257000,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/python_abi-3.13-0_cp313.conda",
+  "version": "3.13"
+}
